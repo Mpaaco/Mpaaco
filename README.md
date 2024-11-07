@@ -87,7 +87,7 @@ Prazer! Sou o Marco, paulistano e estudante de Análise e Desenvolvimento de Sis
     title="Adobe Premiere"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" 
 />
 <img 
     align="left" 
