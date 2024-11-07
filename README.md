@@ -107,7 +107,7 @@ Prazer! Sou o Marco, paulistano e estudante de Análise e Desenvolvimento de Sis
   <img 
     align="left" 
     alt="GitHub Stats"
-    width="150"
+    width="1500"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Mpaaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -116,7 +116,7 @@ Prazer! Sou o Marco, paulistano e estudante de Análise e Desenvolvimento de Sis
 <img 
     align="left" 
     alt="GitHub Stats" 
-    width="150"
+    width="1500"
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpaaco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
