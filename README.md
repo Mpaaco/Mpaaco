@@ -1,8 +1,8 @@
-# 👨🏻‍💻 [Seu Nome]
+# 👨🏻‍💻 Hey! It's-a me, Marco!
 
 **`Desenvolvedor Web e Designer`**
 
-Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPress e habilidades no Pacote Adobe. Trabalho em projetos para clientes como Atafísco e Vemaplastic, onde atuo como freelancer de desenvolvimento de sites. Tenho uma paixão por design e tecnologia, e atualmente estou focado em aprimorar minhas habilidades em JavaScript, React e SQL. Além disso, também sou professor de bateria nas horas vagas, compartilhando meu amor pela música!
+Prazer! Sou o Marco, paulistano e estudante de Análise e Desenvolvimento de Sistemas, com foco em Frontend. Tenho habilidades em JavaScript, HTML, CSS e React, e venho me especializando em SQL, com o objetivo de me tornar um desenvolvedor Full Stack. Atuo como freelancer no desenvolvimento de sites para clientes como Atafísco e Vemaplastic. Além disso, tenho experiência com ferramentas do Pacote Adobe, como Photoshop, Illustrator, Premiere e After Effects, e um plus em ZBrush e Maya 3D.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marco-aurelio-lima-de-oliveira/">
@@ -15,7 +15,7 @@ Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPre
     <a href="https://github.com/Mpaaco">
         <img 
             alt="GitHub Followers" 
-            title="Me siga no GitHub" 
+            title="Meu GitHub" 
             src="https://img.shields.io/github/followers/Mpaaco?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     </a>
 </p>
@@ -56,22 +56,7 @@ Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPre
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
 />
-<img 
-    align="left" 
-    alt="WordPress"
-    title="WordPress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -96,6 +81,22 @@ Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPre
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="Adobe Premiere" 
+    title="Adobe Premiere"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Adobe After Effects" 
+    title="Adobe After Effects"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -108,14 +109,14 @@ Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPre
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Mpaaco-github&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpaaco-github&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
