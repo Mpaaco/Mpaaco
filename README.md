@@ -5,14 +5,14 @@
 Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPress e habilidades no Pacote Adobe. Trabalho em projetos para clientes como Atafísco e Vemaplastic, onde atuo como freelancer de desenvolvimento de sites. Tenho uma paixão por design e tecnologia, e atualmente estou focado em aprimorar minhas habilidades em JavaScript, React e SQL. Além disso, também sou professor de bateria nas horas vagas, compartilhando meu amor pela música!
 
 <p align="left">
-    <a href="[https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/marco-aurelio-lima-de-oliveira/)">
+    <a href="https://www.linkedin.com/in/marco-aurelio-lima-de-oliveira/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="[https://github.com/seu-usuario-github](https://github.com/Mpaaco)">
+    <a href="https://github.com/Mpaaco">
         <img 
             alt="GitHub Followers" 
             title="Me siga no GitHub" 
