@@ -16,7 +16,8 @@ Olá! Sou [Seu Nome], paulistano e desenvolvedor web com experiência em WordPre
         <img 
             alt="GitHub Followers" 
             title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/followers/seu-usuario-github?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+
         />
     </a>
 </p>
