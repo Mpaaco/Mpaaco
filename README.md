@@ -16,7 +16,7 @@ Prazer! Sou o Marco, paulistano e estudante de Análise e Desenvolvimento de Sis
         <img 
             alt="GitHub Followers" 
             title="Meu GitHub" 
-            src="https://img.shields.io/github/Mpaaco?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/Mpaaco?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     </a>
 </p>
 
