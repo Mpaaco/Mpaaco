@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web e Designer`**
 
-Prazer! Sou o Marco, sou engenheiro de software, com foco em ser fullstak. Tenho habilidades em JavaScript, SQL, HTML, CSS e React, e venho me especializando em C.  Atuo como freelancer no desenvolvimento de sites para clientes como Atafísco e Vemaplastic. Além disso, tenho experiência com ferramentas do Pacote Adobe, como Photoshop, Illustrator, Premiere e After Effects, e um plus em ZBrush e Maya 3D.
+Prazer! Sou o Marco, sou Desenvolvedor Fullstack. Tenho habilidades em JavaScript, SQL, HTML, CSS, Java, React e Python, e venho me especializando em C.  Atuo como freelancer no desenvolvimento de sites para clientes como Atafísco e Vemaplastic. Além disso, tenho experiência com ferramentas do Pacote Adobe, como Photoshop, Illustrator, Premiere e After Effects, e um plus em ZBrush e Maya 3D.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marco-aurelio-lima-de-oliveira/">
