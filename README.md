@@ -2,26 +2,26 @@
 
 **`Software Engineer | Full Stack em evolução | Frontend Specialist`**
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor com forte base em **Frontend**, construindo interfaces escaláveis, performáticas e bem estruturadas com **React, JavaScript, HTML e CSS**.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor com forte base em **Frontend**, criando interfaces escaláveis, performáticas e bem estruturadas com **React, JavaScript, HTML e CSS**.
 
-Minha base em frontend é sólida e madura, mas hoje meu foco está em evoluir cada vez mais no **Backend** e em **Análise de Dados**, buscando me tornar um desenvolvedor **Full Stack completo**, capaz de construir soluções de ponta a ponta com eficiência e consistência.
+Tenho uma base sólida e madura no frontend, e atualmente estou direcionando minha evolução para **Backend** e **Análise de Dados**, com o objetivo de atuar como desenvolvedor **Full Stack**, construindo soluções completas de ponta a ponta.
 
-Atualmente, trabalho na Shopee desenvolvendo automações com **JavaScript (Google Apps Script)** e criando soluções que apoiam diretamente a tomada de decisão através de dados — sempre com foco em impacto real, clareza e escalabilidade.
+Hoje trabalho na Shopee desenvolvendo automações com **JavaScript (Google Apps Script)** e criando soluções que auxiliam na tomada de decisão com base em dados, sempre buscando eficiência, clareza e impacto real.
 
-Como freelancer, já desenvolvi projetos para empresas como Atafísco e Vemaplastic, aplicando boas práticas modernas de desenvolvimento, organização de código e componentização.
+Também atuo como freelancer, desenvolvendo projetos para empresas como Atafísco e Vemaplastic, aplicando boas práticas de desenvolvimento, organização de código e componentização.
 
-Tenho como diferencial uma visão que une **engenharia e design**, com experiência em ferramentas como Photoshop, Illustrator, Premiere e After Effects, além de conhecimentos em 3D (ZBrush e Maya). Isso me permite desenvolver interfaces não só funcionais, mas também intuitivas e bem pensadas.
+Além disso, tenho experiência com ferramentas criativas como Photoshop, Illustrator, Premiere e After Effects, e conhecimentos em 3D com ZBrush e Maya, o que fortalece minha visão de produto e experiência do usuário.
 
 ---
 
 ### 🧠 Direção
 
-Hoje, meu foco está em:
+Atualmente focado em
 
-- Evolução em **Backend e arquitetura de sistemas**
-- Aprofundamento em **Análise de Dados e SQL**
-- Fortalecimento de **fundamentos (C, lógica e estruturas de dados)**
-- Construção de soluções completas como **Full Stack**
+• Backend e arquitetura de sistemas  
+• Análise de dados e SQL  
+• Estruturas de dados e lógica com C  
+• Evolução para Full Stack  
 
 ---
 
@@ -31,9 +31,32 @@ Hoje, meu foco está em:
 
 ---
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats"
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Mpaaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Tecnologias mais usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpaaco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+<br clear="both"/>
+
+---
+
 ### 📈 Objetivo
 
-Atuar como **Desenvolvedor Full Stack**, participando da construção de sistemas completos, escaláveis e bem estruturados — do banco de dados à interface.
+Atuar como desenvolvedor **Full Stack**, participando da construção de sistemas completos, escaláveis e bem estruturados, do banco de dados à interface.
 
 ---
 
