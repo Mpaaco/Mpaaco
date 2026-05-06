@@ -1,8 +1,41 @@
-# 👨🏻‍💻 Hey! It's-a me, Marco!
+# 👨🏻‍💻 Marco Oliveira
 
-**`Desenvolvedor Web e Designer`**
+**`Software Engineer | Full Stack em evolução | Frontend Specialist`**
 
-Prazer! Sou o Marco, sou Desenvolvedor Fullstack. Tenho habilidades em JavaScript, SQL, HTML, CSS, Java, React e Python, e venho me especializando em C.  Atuo como freelancer no desenvolvimento de sites para clientes como Atafísco e Vemaplastic. Além disso, tenho experiência com ferramentas do Pacote Adobe, como Photoshop, Illustrator, Premiere e After Effects, e um plus em ZBrush e Maya 3D.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor com forte base em **Frontend**, construindo interfaces escaláveis, performáticas e bem estruturadas com **React, JavaScript, HTML e CSS**.
+
+Minha base em frontend é sólida e madura, mas hoje meu foco está em evoluir cada vez mais no **Backend** e em **Análise de Dados**, buscando me tornar um desenvolvedor **Full Stack completo**, capaz de construir soluções de ponta a ponta com eficiência e consistência.
+
+Atualmente, trabalho na Shopee desenvolvendo automações com **JavaScript (Google Apps Script)** e criando soluções que apoiam diretamente a tomada de decisão através de dados — sempre com foco em impacto real, clareza e escalabilidade.
+
+Como freelancer, já desenvolvi projetos para empresas como Atafísco e Vemaplastic, aplicando boas práticas modernas de desenvolvimento, organização de código e componentização.
+
+Tenho como diferencial uma visão que une **engenharia e design**, com experiência em ferramentas como Photoshop, Illustrator, Premiere e After Effects, além de conhecimentos em 3D (ZBrush e Maya). Isso me permite desenvolver interfaces não só funcionais, mas também intuitivas e bem pensadas.
+
+---
+
+### 🧠 Direção
+
+Hoje, meu foco está em:
+
+- Evolução em **Backend e arquitetura de sistemas**
+- Aprofundamento em **Análise de Dados e SQL**
+- Fortalecimento de **fundamentos (C, lógica e estruturas de dados)**
+- Construção de soluções completas como **Full Stack**
+
+---
+
+### ⚙️ Stack
+
+`JavaScript` • `React` • `HTML` • `CSS` • `SQL` • `C` • `Git`
+
+---
+
+### 📈 Objetivo
+
+Atuar como **Desenvolvedor Full Stack**, participando da construção de sistemas completos, escaláveis e bem estruturados — do banco de dados à interface.
+
+---
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marco-aurelio-lima-de-oliveira/">
@@ -17,81 +50,6 @@ Prazer! Sou o Marco, sou Desenvolvedor Fullstack. Tenho habilidades em JavaScrip
             alt="GitHub Followers" 
             title="Meu GitHub" 
             src="https://img.shields.io/github/followers/Mpaaco?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
     </a>
 </p>
-
----
-
-### 🎨 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mpaaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpaaco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
