@@ -4,9 +4,9 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor com forte base em **Frontend**, criando interfaces escaláveis, performáticas e bem estruturadas com **React, JavaScript, HTML e CSS**.
 
-Tenho uma base sólida e madura no frontend, e atualmente estou direcionando minha evolução para **Backend** e **Análise de Dados**, com o objetivo de atuar como desenvolvedor **Full Stack**, construindo soluções completas de ponta a ponta.
+Tenho uma base sólida no frontend e atualmente estou direcionando minha evolução para **Backend** e **Análise de Dados**, com o objetivo de atuar como desenvolvedor **Full Stack**, construindo soluções completas de ponta a ponta.
 
-Hoje trabalho na Shopee desenvolvendo automações com **JavaScript (Google Apps Script)** e criando soluções que auxiliam na tomada de decisão com base em dados, sempre buscando eficiência, clareza e impacto real.
+Hoje trabalho na Shopee desenvolvendo automações com **JavaScript (Google Apps Script)** e criando soluções que auxiliam na tomada de decisão com base em dados, sempre com foco em eficiência e impacto real.
 
 Também atuo como freelancer, desenvolvendo projetos para empresas como Atafísco e Vemaplastic, aplicando boas práticas de desenvolvimento, organização de código e componentização.
 
@@ -31,29 +31,6 @@ Atualmente focado em
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats"
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mpaaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Tecnologias mais usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpaaco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br clear="both"/>
-
----
-
 ### 📈 Objetivo
 
 Atuar como desenvolvedor **Full Stack**, participando da construção de sistemas completos, escaláveis e bem estruturados, do banco de dados à interface.
@@ -70,9 +47,9 @@ Atuar como desenvolvedor **Full Stack**, participando da construção de sistema
     </a>
     <a href="https://github.com/Mpaaco">
         <img 
-            alt="GitHub Followers" 
+            alt="GitHub" 
             title="Meu GitHub" 
-            src="https://img.shields.io/github/followers/Mpaaco?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
