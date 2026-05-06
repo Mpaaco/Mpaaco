@@ -73,39 +73,6 @@ Prazer! Sou o Marco, sou Desenvolvedor Fullstack. Tenho habilidades em JavaScrip
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Adobe Photoshop" 
-    title="Adobe Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Adobe Illustrator" 
-    title="Adobe Illustrator"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Adobe Premiere" 
-    title="Adobe Premiere"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Adobe After Effects" 
-    title="Adobe After Effects"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" 
-/>
-
 <br/>
 <br/>
 
