@@ -29,7 +29,7 @@ Também atuo como desenvolvedor Full Stack em projetos próprios e como freelanc
 
 ### ⚙️ Stack principal
 
-`JavaScript` • `Node.js` • `React` • `SQL` • `PostgreSQL` • `MongoDB` • `Redis`
+`JavaScript` • `Node.js` • `React` • `SQL` • `PostgreSQL` • `MongoDB` • `Redis`, `Python`
 
 `Express` • `Fastify` • `AdonisJS` • `Prisma` • `Zod` • `Vitest` • `BullMQ`
 
